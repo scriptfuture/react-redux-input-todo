@@ -1,0 +1,12 @@
+.todo > .text {
+  margin: 0 5px;
+}
+
+.remove-todo {
+    cursor: pointer;
+    color: blue;
+}
+
+.remove-todo:hover {
+    color: red;
+}
